@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
   }
 }
